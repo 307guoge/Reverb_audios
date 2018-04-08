@@ -1,0 +1,14 @@
+room information
+
+roomDim(m):
+4.00
+6.00
+5.00
+sourcePos(m):
+3.72
+5.28
+1.45
+micPos(m):
+0.28 0.38
+3.24 3.24
+4.05 4.05

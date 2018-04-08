@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+*.o
+*.vim
+*.DS_Store
+build/
+docs/_build
+dist/
+local_examples/
